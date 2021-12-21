@@ -1,4 +1,4 @@
 # TwintServer
 simple deployment
 
->>> python api.py
+> python api.py
